@@ -1,5 +1,5 @@
 
-# Spring VideoGames - Endpoints (bref)
+# Spring VideoGames - Endpoints 
 
 Minimal : démarrage et quelques endpoints essentiels.
 
